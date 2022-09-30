@@ -4,4 +4,4 @@ Es un sitio web donde artistas gráficos y audiovisuales pueden compartir sus tr
 
 ![deviantart](deviantart.png)
 
-
+La pagina consigio tanta popularidad que a dia de hoy tiene más de 61 millones de usarios registrados! 😲
